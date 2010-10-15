@@ -1,0 +1,7 @@
+Le systeme d'exploitation d'Apple pour Macintosh fonctionne 
+uniquement sur le Mac. Il souffre aussi d'un manque d'outils de 
+developpement et d'une tres faible interoperabilite avec d'autres 
+systèmes
+Apple a recemment rendu disponible une version Linux pour 
+PowerMac.
+
